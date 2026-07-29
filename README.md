@@ -1,3 +1,4 @@
+![Learning](https://img.shields.io/badge/Learning-Git%20%26%20GitHub-green)
 # Hi there, I'm Ramcharan 👋
 
 Welcome to my GitHub Profile!
