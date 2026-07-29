@@ -1,17 +1,21 @@
-## Hi there it's Ramcharan 👋
+# Hi there, I'm Ramcharan 👋
 
-<!--
-**ramcharan-1449/ramcharan-1449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile!
 
-Hii its my first read me editing process in my collage email  id 
-Here are some ideas to get you started:
+🎓 I am a Computer Science student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Git & GitHub
+- HTML, CSS & JavaScript
+- Python
+
+💻 I enjoy learning new technologies and building projects.
+
+📫 How to reach me:
+- College Email: your-college-email@example.com
+
+## GitHub Stats
+
+![Ramcharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramcharan-1449&show_icons=true)
+
+## Thank you for visiting my profile! 😊
